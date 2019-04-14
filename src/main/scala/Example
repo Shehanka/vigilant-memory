@@ -1,0 +1,8 @@
+class Example {
+  var myField : Int = 0;
+
+  def this(value : Int) = {
+    this();
+    this.myField = value;
+  }
+}
